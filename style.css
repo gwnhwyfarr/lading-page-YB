@@ -21,7 +21,7 @@ body {
 }
 
 .cabecalho-imagem {
-  height: 100px;
+  height: 60px;
 }
 
 .cabecalho-menu {
@@ -69,23 +69,27 @@ body {
 }
 
 .conteudo-principal-escrito-botao {
-  background-color: #ECD6C4;
+  background-color: purple;
   width: 180px;
   height: 60px;
   border: none;
-  box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+  box-shadow: 4px 5px 4px rgba(10, 0, 0, 0.25);
   border-radius: 20px;
   font-family: 'roboto', sans-serif;
   font-weight: 400;
   font-size: 24px;
-  color: #2F2325;
+  color: #d388e7;
 }
 
 .conteudo-principal-escrito-botao:hover {
-  background-color: rgba(236, 214, 196, 0.53);
+  background-color: #90eb8a;
 }
 
 .conteudo-principal-imagem {
+  height: 500px;
+}
+
+.logo-type {
   height: 600px;
 }
 
@@ -120,7 +124,7 @@ body {
 }
 
 .rodape-imagem {
-  height: 200px;
+  height: 150px;
   display: block;
   margin: 0 auto;
 }
